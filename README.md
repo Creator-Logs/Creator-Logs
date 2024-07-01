@@ -56,20 +56,18 @@
 <div>
 <h2 align="left">My Websites</h2>
 
-[Xenith Studio](https://xenithstudio.com/) - My Development Agency
-
-[Waste To Warmth](https://www.wastetowarmth.in/) - My Social Enterprise
-
-[The Neural Nexus](https://theneuralnexus.vercel.app/) - A Repository Of My ML models
+| [Xenith Studio](https://xenithstudio.com/)
+| [Waste To Warmth](https://www.wastetowarmth.in/)
+| [The Neural Nexus](https://theneuralnexus.vercel.app/) |
 </div>
 
 <div>
 <h2 align="left">My Socials</h2>
   
-[GitHub](https://github.com/Creator-Logs)
-[LinkedIn](https://www.linkedin.com/in/ansh-gupta-542613255/)
-[Kaggle](https://www.kaggle.com/creatorlogs)
-[Instagram](https://www.instagram.com/creatorlogs/)
+| [GitHub](https://github.com/Creator-Logs)
+| [LinkedIn](https://www.linkedin.com/in/ansh-gupta-542613255/)
+| [Kaggle](https://www.kaggle.com/creatorlogs)
+[Instagram](https://www.instagram.com/creatorlogs/) |
 
 </div>
 
