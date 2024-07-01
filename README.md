@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello 👋 I'm Ansh Gupta</h1>
 
 ###
 
-<p align="left">Hello, I'm Ansh Gupta, a student passionate about design, development, and engineering</p>
+<p align="left">A student passionate about design, development, and engineering</p>
 
 ###
 
@@ -52,4 +52,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
