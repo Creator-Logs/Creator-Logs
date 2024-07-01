@@ -1,10 +1,6 @@
-<h1 align="left">Hello 👋 I'm Ansh Gupta</h1>
+<h1 align="center">Hi 👋, I'm Ansh Gupta</h1>
 
-###
-
-<p align="left">A student passionate about design, development, and engineering</p>
-
-###
+<h3 align="center">A Student Passionate about Design, Development, and Engineering</h3>
 
 <h2 align="left">My Interests</h2>
 
@@ -12,7 +8,25 @@
 
 <p align="left">🤖 Artificial Intelligence and Machine Learning<br>💻 Software Development <br>🦾 Robotics<br>🚀 Entrepreneurship</p>
 
+
+<h2 align="left">Check Out My</h2>
+
 ###
+
+🖥️ Agency [Xenith Studio](https://www.xenithstudio.com/)
+
+🪡 Social Enterprise [Waste to Warmth](https://www.wastetowarmth.in/)
+
+📦 ML models [Neural Nexus](https://theneuralnexus.vercel.app/)
+
+📫 How to reach me **creatorlogs.official@gmail.com**
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/ansh-gupta-542613255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh-gupta-542613255" height="30" width="40" /></a>
+<a href="https://kaggle.com/creatorlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="creatorlogs" height="30" width="40" /></a>
+<a href="https://instagram.com/creatorlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creatorlogs" height="30" width="40" /></a>
+</p>
 
 <h2 align="left">My Toolstack</h2>
 
@@ -52,26 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<div style="display: flex; justify-content: space-between;"> 
-<div>
-<h2 align="left">My Websites</h2>
-
-| [Xenith Studio](https://xenithstudio.com/)
-| [Waste To Warmth](https://www.wastetowarmth.in/)
-| [The Neural Nexus](https://theneuralnexus.vercel.app/) |
-</div>
-
-<div>
-<h2 align="left">My Socials</h2>
-  
-| [GitHub](https://github.com/Creator-Logs)
-| [LinkedIn](https://www.linkedin.com/in/ansh-gupta-542613255/)
-| [Kaggle](https://www.kaggle.com/creatorlogs)
-[Instagram](https://www.instagram.com/creatorlogs/) |
-
-</div>
-
-</div>
 
 
 
