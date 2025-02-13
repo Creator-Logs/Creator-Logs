@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Gupta</h1>
 
-<h3 align="center">A Student Passionate about Design, Development, and Engineering</h3>
+<h3 align="center">Passionate about Design, Development, and Engineering</h3>
 
 <h2 align="left">My Interests</h2>
 
