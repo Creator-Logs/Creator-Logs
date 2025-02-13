@@ -8,19 +8,6 @@
 
 <p align="left">🤖 Artificial Intelligence and Machine Learning<br>💻 Software Development <br>🦾 Robotics<br>🚀 Entrepreneurship</p>
 
-
-<h2 align="left">Check Out My</h2>
-
-###
-
-🖥️ Agency [Xenith Studio](https://www.xenithstudio.com/)
-
-🪡 Social Enterprise [Waste to Warmth](https://www.wastetowarmth.in/)
-
-📦 ML models [Neural Nexus](https://theneuralnexus.vercel.app/)
-
-📫 How to reach me **creatorlogs.official@gmail.com**
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/ansh-gupta-542613255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh-gupta-542613255" height="30" width="40" /></a>
